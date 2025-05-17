@@ -4,7 +4,7 @@
 I'm a software developer passionate about crafting efficient solutions.
 
 ### Connect with Me:
-- Email: vaibhavRaturi0003@gmail.com
+- Email: vaibhavRaturi4@gmail.com
 
 ### Skills:
 - Java: Core and Advanced
